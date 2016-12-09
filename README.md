@@ -1,0 +1,2 @@
+# pedagogy
+Resources for teaching.
